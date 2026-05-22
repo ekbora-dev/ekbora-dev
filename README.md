@@ -6,7 +6,7 @@
 
 Passionné par le développement et les nouvelles technologies, j'étudie plusieurs langages de programmation et je développe régulièrement des projets pour améliorer mes compétences.
 
-# 🌍 Language Switch
+# 🌍 Langue
 
 [🇫🇷 Français](#-français) | [🇬🇧 English](#-english)
 
@@ -88,6 +88,10 @@ J'utilise Bash pour les scripts, l'automatisation et l'utilisation des systèmes
 ## Computer Science Student
 
 Passionate about development and new technologies, I study several programming languages and regularly build projects to improve my skills.
+
+# 🌍 Language
+
+[🇫🇷 Français](#-français) | [🇬🇧 English](#-english)
 
 ---
 
