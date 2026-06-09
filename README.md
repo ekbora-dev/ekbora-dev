@@ -1,4 +1,4 @@
-[🇫🇷 Aller à la section française](#fr) | [🇬🇧 Go to English section](#en)
+[🇬🇧 English version]([#en](https://github.com/ekbora-dev/ekbora-dev/blob/main/README-EN.md))
 
 ---
 
