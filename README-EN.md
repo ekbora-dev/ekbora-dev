@@ -1,0 +1,31 @@
+# 🇬🇧 It's me, Ekbora
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Junior+developer;Computer+science+student)](https://git.io/typing-svg)
+
+Welcome to my GitHub profile! You can check out my repositories to explore my personal and academic projects (JS, Java, C#, etc.).
+
+---
+
+# Languages I'm studying
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+
+---
+
+# My goals
+
+* Become a full-stack web developer (front-end and back-end)
+* Learn new web technologies
+* Improve my web development skills
+
+---
+
+# Contact
+
+* Username: **Ekbora**
+* Computer Science Student
+* Email: [salihtansel8867@gmail.com](mailto:salihtansel8867@gmail.com)
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
