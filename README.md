@@ -46,6 +46,7 @@ Bienvenue sur mon profil GitHub, vous pouvez consulter mes dépôts pour faire u
 # 🇬🇧 It's me, Ekbora
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Junior+developer;Computer+science+student)](https://git.io/typing-svg)
+
 Welcome to my GitHub profile! You can check out my repositories to explore my personal and academic projects (JS, Java, C#, etc.).
 
 ---
