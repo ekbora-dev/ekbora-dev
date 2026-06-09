@@ -8,8 +8,9 @@
 
 # 🇫🇷 Moi, c'est Ekbora
 
-Bienvenue sur mon profil GitHub, vous pouvez consulter mes dépôts pour faire un tour de mes créations personnelles et d'études (JS, Java, C#, etc.).
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=D%C3%A9veloppeur+junior;Etudiant+en+informatique)](https://git.io/typing-svg)
+Bienvenue sur mon profil GitHub, vous pouvez consulter mes dépôts pour faire un tour de mes créations personnelles et d'études (JS, Java, C#, etc.).
+
 ---
 
 # Langages que j'étudie
