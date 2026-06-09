@@ -33,4 +33,6 @@ Bienvenue sur mon profil GitHub, vous pouvez consulter mes dépôts pour faire u
 
 ⭐ Merci de visiter mon profil GitHub !
 
-[🇫🇷 Aller à la section française](#fr) | [🇬🇧 Go to English section](#en)
+---
+
+<a href="https://github.com/ekbora-dev/ekbora-dev/blob/main/README-EN.md">[🇬🇧 English version]</a>
