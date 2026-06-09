@@ -1,3 +1,7 @@
+<a href="https://github.com/ekbora-dev/ekbora-dev">[🇫🇷​ Version française]</a>
+
+---
+
 # 🇬🇧 It's me, Ekbora
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Junior+developer;Computer+science+student)](https://git.io/typing-svg)
@@ -29,3 +33,7 @@ Welcome to my GitHub profile! You can check out my repositories to explore my pe
 ---
 
 ⭐ Thanks for visiting my GitHub profile!
+
+---
+
+<a href="https://github.com/ekbora-dev/ekbora-dev">[🇫🇷​ Version française]</a>
