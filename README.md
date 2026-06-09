@@ -1,5 +1,3 @@
-# 🇫🇷 Français / 🇬🇧 English
-
 [🇫🇷 Aller à la section française](#fr) | [🇬🇧 Go to English section](#en)
 
 ---
