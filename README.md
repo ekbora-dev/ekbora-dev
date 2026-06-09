@@ -8,8 +8,6 @@
 
 # 🇫🇷 Moi, c'est Ekbora
 
-## Étudiant en informatique
-
 Bienvenue sur mon profil GitHub, vous pouvez consulter mes dépôts pour faire un tour de mes créations personnelles et d'études (JS, Java, C#, etc.).
 
 ---
