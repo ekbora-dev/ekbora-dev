@@ -1,8 +1,6 @@
-[🇬🇧 English version]([#en](https://github.com/ekbora-dev/ekbora-dev/blob/main/README-EN.md))
+<a href="https://github.com/ekbora-dev/ekbora-dev/blob/main/README-EN.md">[🇬🇧 English version]</a>
 
 ---
-
-<a id="fr"></a>
 
 # 🇫🇷 Moi, c'est Ekbora
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&width=435&lines=D%C3%A9veloppeur+junior;Etudiant+en+informatique)](https://git.io/typing-svg)
